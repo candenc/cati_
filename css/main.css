@@ -1,10 +1,21 @@
 h1 {
-  font-size: 15px;
+  font-size: 1rem;
+}
+
+header {
+  color: black;
+  border: 3px;
 }
 
 .nosotros {
-  background-image: url(../imagenes/astris2.jpg);
-  background-size: cover;
+  background-image: url(../imagenes/astris.jpg);
+  background-size: contain;
+}
+.nosotros .catitaExpresando {
+  font-style: italic;
+  color: black;
+  text-align: center;
+  text-emphasis-style: initial;
 }
 
 /*# sourceMappingURL=main.css.map */

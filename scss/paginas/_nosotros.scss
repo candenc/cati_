@@ -1,6 +1,12 @@
 .nosotros {
-    background-image: url(../imagenes/astris2.jpg);
-    background-size: cover;
+    background-image: url(../imagenes/astris.jpg);
+    background-size:contain;
     
+    .catitaExpresando{
+        font-style: italic;
+        color: $colorPrincipal;
+        text-align: center;
+       text-emphasis-style:initial;
+    }
 }
 
